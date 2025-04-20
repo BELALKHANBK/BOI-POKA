@@ -1,6 +1,6 @@
 # FlagshipFaceOff Resources
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://symphonious-lolly-8d4a5d.netlify.app/)
 
 ## Documentation Links
 
